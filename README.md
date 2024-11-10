@@ -5,8 +5,8 @@
 # 1. Group Introduction and Contribution
 **Zhang Bojun**, 12211615, Tuesday 1st-2nd Period  
 **Zhu Jianuo**, 12210404, Tuesday 1st-2nd Period  
-**Wang Ziheng**, 12310401, Tuesday 1st-2nd Period
-Contribution Ratio: 1:1:1
+**Wang Ziheng**, 12310401, Tuesday 1st-2nd Period       
+### Contribution Ratio: 1:1:1
 
 # 2. Database Design (15%)
 ## 2.1 ER Diagram

@@ -141,4 +141,4 @@ This design helps efficiently manage data related to users, videos, view records
 - **Logger**
 - **Rollback**
 - **Connection Pool**
-- **User Password Encryption System
+- **User Password Encryption System**

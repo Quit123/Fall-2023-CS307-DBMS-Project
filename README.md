@@ -1,10 +1,11 @@
 # 📺Fall-2023-CS307-DBMS-Project
 ## ER diagram
 <img width="788" alt="image" src="https://github.com/user-attachments/assets/4e156cb8-8557-416b-9d96-2e9039f4c257">
+
 # 1. Group Introduction and Contribution
-- **Zhu Jianuo**, 12210404, Tuesday 1st-2nd Period
-- **Wang Ziheng**, 12310401, Tuesday 1st-2nd Period
-- **Zhang Bojun**, 12211615, Tuesday 1st-2nd Period  
+**Zhu Jianuo**, 12210404, Tuesday 1st-2nd Period
+**Wang Ziheng**, 12310401, Tuesday 1st-2nd Period
+**Zhang Bojun**, 12211615, Tuesday 1st-2nd Period  
 Contribution Ratio: 1:1:1
 
 # 2. Database Design (15%)

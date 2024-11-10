@@ -1,4 +1,7 @@
 # 📺Fall-2023-CS307-DBMS-Project
+
+This project involves the structure of a fictional barrage video website - Synchronized User generated Subtitle Technology Company (SUSTech). After decades of development, it has built an ecosystem around users and creators who constantly produce high-quality content, including videos and bullet comments. Normally, videos are submitted by users known as "UP hosts". Then, these videos will be reviewed to check if they meet the standards of an 'auditor'. After successful review, the UP owner can publish this video at their designated time. Users can then watch the video. During the viewing period, they can interact with each other across time and space through bullet comments. Of course, in addition to sending barrage messages, users can also perform a series of operations such as liking, coin insertion, and bookmarking.
+
 ## ER diagram
 <img width="788" alt="image" src="https://github.com/user-attachments/assets/4e156cb8-8557-416b-9d96-2e9039f4c257">
 
